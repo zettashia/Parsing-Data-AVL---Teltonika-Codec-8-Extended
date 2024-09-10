@@ -1,4 +1,4 @@
-# JSON Parse Telnotika
+# JSON Parse Teltonika
 kode python untuk parse data raw teltonika hasil forward dari traccar.
 
 sebelum mengeksekusi:
